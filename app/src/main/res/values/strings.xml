@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NY Times Articles</string>
+    <string name="message_error">Error Occurs \n Please refresh again.</string>
+</resources>
